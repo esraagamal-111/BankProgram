@@ -1,2 +1,3 @@
 # BankProgram
-Banking Program Assignment
+Banking Program 
+apply OOP concept 
